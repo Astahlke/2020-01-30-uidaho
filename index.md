@@ -130,9 +130,11 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> 
-  UIdaho student, please register with CRN 74786. We also welcome nonstudents (post-docs, faculty, staff) and the broader community. Nonstudents, please register at <a href="https://imci.uidaho.edu/2019/12/11/registration-now-available/"></a>. 
-  
   Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+</p>
+
+<p id="registration">
+<strong>Registration:</strong> UIdaho students, please register with CRN 74786. We also welcome nonstudents (post-docs, faculty, staff) and the broader community. Nonstudents, please register at <a href="https://imci.uidaho.edu/2019/12/11/registration-now-available/">https://imci.uidaho.edu/2019/12/11/registration-now-available</a>. 
 </p>
 
 {% comment%}
